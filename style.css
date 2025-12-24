@@ -1,0 +1,79 @@
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+}
+header {
+    background-color: #1c0694;
+    color: #fff;
+    padding: 10px 0px;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+nav ul li {
+    margin: 0px 15px;
+}
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+main {
+    padding: 20px;
+    text-align: center;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+form {
+    display: inline-block;
+    text-align: left;
+}
+form label {
+    display: block;
+    margin-top: 10px;
+}
+form textarea {
+    width: 100%;
+    max-width: 500px;
+}
+/* Layouts de seções */
+.section {
+    margin: 20px 0px;
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    /*gap: 20px;*/
+    justify-content: center;
+}
+.item {
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    border-radius: 5px;
+    flex: 1 1 300px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 10px;
+    padding: 20px;
+    width: 200px;
+    text-align: center;
+}
+#table-projetos {
+    width: 100%;
+    /*border-collapse: collapse;*/
+    /*margin-top: 20px;*/
+    text-align: center;
+}
