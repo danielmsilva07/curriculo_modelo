@@ -15,7 +15,7 @@ Este currículo online foi desenvolvido com o intuito de servir como um **modelo
 
 Você pode visualizar a versão online e interativa do meu currículo através deste link:
 
-[**Acessar Currículo Online**](https://danielmsilva07.github.io)
+[**Acessar Currículo Modelo Online**](https://danielmsilva07.github.io/curriculo_modelo/)
 
 ---
 
